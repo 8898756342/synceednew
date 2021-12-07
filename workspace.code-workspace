@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "NewBiz",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NewBiz",
+		"liveServer.settings.port": 5502
+	}
+}
