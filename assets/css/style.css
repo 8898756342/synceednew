@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   position: relative;
-  background: url("/images/Slider/Services.jpg") center bottom no-repeat;
+  background: url("https://drive.google.com/uc?export=view&id=1cx0Tcq6m98X2kLl_5dXVRaTQHviO-5Gd") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 120px 0;
 }
@@ -336,6 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .hero-img {
   width: 50%;
   float: right;
+    
 }
 @media (max-width: 991px) {
   #hero .hero-img {
